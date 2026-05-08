@@ -565,3 +565,32 @@ a {
     max-width: 100% !important;
   }
 }
+
+.artifact-card {
+  display: grid;
+  grid-template-columns: 0.9fr 1.3fr;
+  gap: 32px;
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  padding: 34px;
+}
+
+.artifact-card h3 {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.05;
+  font-weight: 500;
+}
+
+.artifact-card p {
+  font-family: Arial, sans-serif;
+  color: var(--muted);
+  line-height: 1.8;
+  margin: 0;
+}
+
+@media (max-width: 900px) {
+  .artifact-card {
+    grid-template-columns: 1fr;
+  }
+}
