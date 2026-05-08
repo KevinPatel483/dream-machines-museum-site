@@ -72,7 +72,7 @@ The review focused on:
 
 This helped me improve the project so that it feels more like a museum experience. The site now has clearer sections, stronger navigation, more consistent visual language, and a better connection between the topic and the design.
 
-## Current Improvement Goals
+## Final Design Goals
 
 The current improvement goals for the project are:
 
