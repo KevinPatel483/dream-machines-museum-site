@@ -90,3 +90,28 @@ https://github.com/KevinPatel483/dream-machines-museum-site
 ## Live Website
 
 https://kevinpatel483.github.io/dream-machines-museum-site/
+
+## Research Notes
+
+Before building the final version of the site, I researched the major stages in the history of artificial imagination. I focused on moments where humans imagined, designed, or built artificial beings and intelligent systems.
+
+The research helped shape the three main museum wings:
+
+- Mythic Hall focuses on early stories of artificial life, including Talos, golems, and legendary made beings.
+- Mechanical Wing focuses on mechanical automata, Leonardo’s mechanical knight, Babbage’s engines, Ada Lovelace, and the idea of programmable procedure.
+- Digital Vault focuses on Alan Turing, machine intelligence, machine learning, neural networks, and generative AI.
+
+This research helped me avoid making the site a random collection of pages. Instead, the site follows a guided route from myth to machinery to modern artificial intelligence.
+
+## Final Review Improvements
+
+After the midterm review, I improved the project by:
+
+- changing the site from a basic dark layout into a more professional museum editorial style
+- creating separate exhibit pages for Mythic Hall, Mechanical Wing, and Digital Vault
+- improving the navigation so visitors can move through the museum clearly
+- fixing layout problems on the chapter pages
+- improving the README to explain the design style, archetype, persuasion principle, and AI process more clearly
+- making the live site available through GitHub Pages
+
+These improvements helped the site feel more like a guided exhibition instead of a simple class website.
