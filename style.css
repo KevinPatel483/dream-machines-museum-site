@@ -502,3 +502,65 @@ a {
     text-align: center;
   }
 }
+/* Final homepage polish */
+
+.exhibition-map {
+  box-shadow: 0 18px 45px rgba(47, 27, 20, 0.06);
+}
+
+.map-number {
+  display: block;
+  font-family: Arial, sans-serif;
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.hero-panel .panel-box h3 {
+  font-size: 1.4rem;
+  margin-bottom: 8px;
+}
+
+.hero-panel .panel-box p {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.hero {
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 28px;
+}
+
+.wing-card,
+.idea-card,
+.entry-card,
+.note-box,
+.hero-panel,
+.artifact-card {
+  background: rgba(251, 248, 244, 0.86);
+}
+
+.wing-card:hover,
+.idea-card:hover,
+.entry-card:hover {
+  border-color: #c9aa98;
+  transform: translateY(-2px);
+}
+
+.wing-card,
+.idea-card,
+.entry-card {
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.timeline-section h3,
+.featured-section h3 {
+  max-width: 1000px;
+}
+
+.closing-panel {
+  padding-bottom: 12px;
+}
